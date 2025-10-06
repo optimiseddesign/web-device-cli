@@ -2,6 +2,8 @@
 
 A Web Command Line Interface via NUS (Nordic UART Service) using [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/).
 
+A fork of the [original repo](https://makerdiary.github.io/web-device-cli) to use for the [Digital Democracy](https://github.com/lorempipsum/digital-democracy/) project, but with the TX / RX UUIDs swapped for the Nordic NUS.
+
 [![](img/web-device-cli-chrome-desktop.png)](https://youtu.be/i6OgX4civrM)
 
 ## Prerequisites
